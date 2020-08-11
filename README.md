@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaildemircann" alt="ismaildemircann" /> </p>
+
 <h3 align="center">A computer science student from Eskişehir Osmangazi University. I am board member responsible for external relations at BBTK (Computer Informatics and Technologies Club) in university.</h3>
 <br><br>
 
