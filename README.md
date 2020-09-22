@@ -4,9 +4,9 @@
 <h3 align="center">A computer science student from Eskişehir Osmangazi University. I am board member responsible for external relations at BBTK (Computer Informatics and Technologies Club) in university.</h3>
 <br><br>
 
-- 🌱 I’m currently learning <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></p>
+- 🌱 I’m currently learning<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></p>
 
-- 📫 How to reach me **ismaildemircann98@gmail.com**
+- 📫 How to reach me <a href="mailto:ismaildemircann98@gmail.com" img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="gmail" height="20" width="20" /></a> <a href="https://linkedin.com/in/ismaildemircan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismaildemircan" height="20" width="20" /></a> <a href="https://instagram.com/ismaildemircann" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismaildemircann" height="20" width="20" /></a>
 
 
 <p><strong>Programming languages I have worked before:</strong></p>
@@ -18,7 +18,4 @@
 
 
 
-<p align="center">
-<a href="https://linkedin.com/in/ismaildemircan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismaildemircan" height="20" width="20" /></a>
-<a href="https://instagram.com/ismaildemircann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ismaildemircann" height="20" width="20" /></a>
-</p>
+
